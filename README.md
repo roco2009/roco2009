@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Zarzoso, from Valencia (Spain). My GitHub username is @roco2009
 - 👀 I’m interested in coding for beginners
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on coding exercises
 - 📫 How to reach me: sodercan@yahoo.com
 
